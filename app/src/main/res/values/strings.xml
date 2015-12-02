@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SportsApp</string>
+
+    <string name="title_section1">Profile</string>
+    <string name="title_section2">News Feed</string>
+    <string name="title_section3">Host Game</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
